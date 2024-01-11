@@ -1,4 +1,15 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://RodionSav.github.io/futuristic-speaker/)
+# Futuristic-speaker project
+This my project of website with design that was inspired by [this design](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655%3A32&mode=dev)
+
+There is working version of my project:
+[DEMO LINK](https://rodionsav.github.io/Futuristic-speaker-project/)
+
+## Dependencies
+* Node v14.16.1 and higher
+* NPM V6.14.2 and higher
+
+## Installing
+* Fork and clone this repository
+* Run ```bash npm install``` in your terminal
+* Run ```bash npm start```
+  
